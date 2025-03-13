@@ -55,8 +55,11 @@
       "@tailwindcss/postcss": {}
     }
   },
-  "overrides": {
-    "tailwindcss": "file:./tailwindcss.tgz"
+  "pnpm": {
+    "overrides": {
+      "tailwindcss": "file:./tailwindcss.tgz",
+      "@tailwindcss/postcss>tailwindcss": "file:./tailwindcss.tgz"
+    }
   },
   "packageManager": "pnpm@9.14.0"
 }
