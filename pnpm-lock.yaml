@@ -2120,7 +2120,7 @@ packages:
     resolution: {integrity: sha512-Cat63mxsVJlzYvN51JmVXIgNoUokrIaT2zLclCXjRd8boZ0004U4KCs/sToJ75C6sdlByWxpYnb5Boif1VSFew==}
 
   tailwindcss@file:tailwindcss.tgz:
-    resolution: {integrity: sha512-gvyiggoEVjdLniMYgi+vDB9uDOJnjqZeiuF0fqYsokzDzFTGx91S2treFngkElSmAe8ifr9lxqc/8q1Wbzn1sg==, tarball: file:tailwindcss.tgz}
+    resolution: {integrity: sha512-faPtkyPFzVoNd2Dya1EEtfafYAZuAadX4E6nBRqKeXC4T960xDTTZAqiXOwA7fLA1Z0SWLBRLQ02UXTO5a8p3Q==, tarball: file:tailwindcss.tgz}
     version: 4.0.15
 
   tapable@2.2.1:
